@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eigavaetu.alandavies.org/sitemap.xml
